@@ -5,7 +5,7 @@ Web Developer
 I am a software developer who is excited about creating digital solutions in collaboration with others to bring value to companies.
 * 🌍  I'm based in El Salvador
 * ✉️  You can contact me at [jason.dev.127@gmail.com](mailto:jason.dev.127@gmail.com)
-* 🧠  I'm learning TypeScript, tRPC and GraphQL
+* 🧠  I'm learning TypeScript and Redis
 * 🤝  I'm open to collaborating on any interesting project
 * ⚡  I love learn new things
 
