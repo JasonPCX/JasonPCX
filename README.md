@@ -2,12 +2,13 @@ Hi 👋 My name is Jason Peraza
 =============================
 Web Developer
 -------------
-I am a software developer who is excited about creating digital solutions in collaboration with others to bring value to companies.
+I'm an enthusiastic software developer who thrives on collaborating with others to create digital solutions that add value to companies.
+
 * 🌍  I'm based in El Salvador
 * ✉️  You can contact me at [jason.dev.127@gmail.com](mailto:jason.dev.127@gmail.com)
 * 🧠  I'm learning TypeScript and Redis
 * 🤝  I'm open to collaborating on any interesting project
-* ⚡  I love learn new things
+* ⚡  I love learning new things
 
 <a href="https://www.github.com/JasonPCX" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/JasonPCX?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
