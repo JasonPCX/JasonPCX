@@ -5,7 +5,7 @@ Web Developer
 I'm an enthusiastic software developer who thrives on collaborating with others to create digital solutions that add value to companies.
 
 * 🌍  I'm based in El Salvador
-* ✉️  You can contact me at [jason.dev.127@gmail.com](mailto:jason.dev.127@gmail.com)
+* ✉️  You can contact me at [jasonperazac@gmail.com](mailto:jasonperazac@gmail.com)
 * 🧠  I'm learning TypeScript and Redis
 * 🤝  I'm open to collaborating on any interesting project
 * ⚡  I love learning new things
