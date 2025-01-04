@@ -6,7 +6,7 @@ I'm an enthusiastic software developer who thrives on collaborating with others 
 
 * 🌍  I'm based in El Salvador
 * ✉️  You can contact me at [jasonperazac@gmail.com](mailto:jasonperazac@gmail.com)
-* 🧠  I'm learning TypeScript and Redis
+* 🧠  I'm learning Kubernetes
 * 🤝  I'm open to collaborating on any interesting project
 * ⚡  I love learning new things
 
