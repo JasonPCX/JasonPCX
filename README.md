@@ -1,4 +1,4 @@
-Hi 👋 My name is Jason Peraza
+Hi 👋 I'm Jason Peraza
 =============================
 Web Developer
 -------------
